@@ -1,9 +1,22 @@
 h1{
-  font-size: 20px;
-  font-family:;
-  color: blue
+  font-size: 80px;
+  font-family: 'Dancing Script', cursive;
+  color: #ECEFF1;
+  text-align:center;
 
 }
-body{
-  color:black
+#nav{
+  width: 100%;
+}
+table{
+    margin-top: 190px;
+    font-family:'Dancing Script', cursive;
+    font-size: 40px;
+    color:#eceff1;
+}
+a:link a:visited {
+    color: blue;
+}
+a:hover{
+  color: white;
 }
