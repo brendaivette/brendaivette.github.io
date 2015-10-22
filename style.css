@@ -17,11 +17,11 @@ table {
     text-align: center;
 }
  a:visited {
-    color: blue;
+    color: #E0F2F1;
 }
 a:link{
     color: white;
 }
 a:hover{
-  color: green;
+  color: #03A9F4;
 }
