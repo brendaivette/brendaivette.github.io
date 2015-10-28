@@ -2,6 +2,9 @@ body background{
   object-fit:fill;
   width: 100%;
 }
-h1{
+h1 title{
   color: black;
+}
+p{
+text-align: cnter;
 }
