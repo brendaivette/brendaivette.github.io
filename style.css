@@ -15,6 +15,10 @@ h1{
 	font-family:'Dancing Script', cursive;
 	color: #ffffff;
 }
+img{
+	width: 15%;
+	length: 10%;
+}
 
 #header {
 	z-index: 1;
@@ -58,7 +62,7 @@ a:hover{
 }
 
 .right {
-	float: right;
+	float: none;
 	position: relative;
 	margin-top: 50px;
 	width: 100%;
