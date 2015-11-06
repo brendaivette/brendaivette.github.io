@@ -15,11 +15,16 @@ h1{
 	font-family:'Dancing Script', cursive;
 	color: #ffffff;
 }
+h2{
+	text-align:auto;
+}
 img{
 	width: 15%;
 	length: 10%;
 }
-
+table{
+	margin: auto;
+}
 #header {
 	z-index: 1;
 	position: fixed;
@@ -58,11 +63,10 @@ a:link{
 	color:#ffffff;
 }
 a:hover{
-	color:#F44336
+	color:#F44336;
 }
-
 .right {
-	float: none;
+	float: right;
 	position: relative;
 	margin-top: 50px;
 	width: 100%;
