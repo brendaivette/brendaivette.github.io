@@ -18,6 +18,11 @@ h1{
 h2{
 	text-align:auto;
 }
+table {
+	text-align: center;
+	font-size: 40px;
+}
+
 #header {
 	z-index: 1;
 	position: fixed;
@@ -66,4 +71,8 @@ a:hover{
 	height: 650px;
 	background-color: #ffffff;
 	margin-bottom: 10px;
+	text-align: center;
+}
+#size{
+	font-size: 50px;
 }
