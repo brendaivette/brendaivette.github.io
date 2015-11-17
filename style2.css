@@ -15,7 +15,16 @@ h1{
 	font-family:'Dancing Script', cursive;
 	color: #ffffff;
 }
-
+h2{
+	text-align:auto;
+}
+img{
+	width: 15%;
+	length: 10%;
+}
+table{
+	margin: auto;
+}
 #header {
 	z-index: 1;
 	position: fixed;
@@ -34,16 +43,6 @@ h1{
 	margin-left:-254px;
 }
 
-#footer {
-	clear:both;
-	position: relative;
-	height: 70px;
-	font-family: Verdana, sans-serif;
-	font-size: 14px;
-	text-align: center;
-	color:#EF9A9A;
-}
-
 #compsci {
 	font-size: 20px;
 	text-align: center;
@@ -54,9 +53,8 @@ a:link{
 	color:#ffffff;
 }
 a:hover{
-	color:#F44336
+	color:#F44336;
 }
-
 .right {
 	float: right;
 	position: relative;
