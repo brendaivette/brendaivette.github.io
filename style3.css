@@ -15,6 +15,10 @@ h1{
 	font-family:'Dancing Script', cursive;
 	color: #ffffff;
 }
+table{
+	text-align: center;
+	
+}
 #header {
 	z-index: 1;
 	position: fixed;
