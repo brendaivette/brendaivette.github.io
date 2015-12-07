@@ -8,20 +8,30 @@ li {
 	color: #ffffff;
 	padding: 5px;
 }
-
 h1{
   text-align: center;
 	font-size: 60px;
 	font-family:'Dancing Script', cursive;
 	color: #ffffff;
 }
+h2{
+	text-align:auto;
+}
 img{
-	width: 15%;
-	length: 10%;
+	width: 70%;
+	length: 80%;
 }
 table{
 	margin: auto;
 }
+h2{
+	font-size: 30px;
+}
+td p{
+	font-size: 26px;
+	margin-right: 150px;
+}
+
 #header {
 	z-index: 1;
 	position: fixed;
@@ -36,10 +46,9 @@ table{
 #navbar {
 	position: fixed;
 	top:10px;
-	right: 20%;
-	margin-left:-235px;
+	right: 25%;
+	margin-left:-254px;
 }
-
 
 #compsci {
 	font-size: 20px;
