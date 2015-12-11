@@ -14,11 +14,7 @@ h1{
 	font-size: 60px;
 	font-family:'Dancing Script', cursive;
 	color: #ffffff;
-}
-table tr{
-	text-align: center;
 
-}
 #header {
 	z-index: 1;
 	position: fixed;
